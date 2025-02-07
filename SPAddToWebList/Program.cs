@@ -210,7 +210,7 @@ namespace SPAddToWebList
                 };
 
                 // Add recipient
-                email.ToRecipients.Add("verteilerspadmins@koeln-bonn-airport.de");
+                email.ToRecipients.Add("bla@yourdomain.com");
 
                 // Send the email
                 email.Send();
